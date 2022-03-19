@@ -2,8 +2,7 @@
 # x barT = [1,2,2] ,y barT = [3,2,1]
 # using numpy
 
-from audioop import add
-from re import A
+
 from numpy import linalg as LA
 import numpy as np 
 # defining 
